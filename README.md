@@ -8,6 +8,6 @@ Spring 2017: MAT-499
 * Jinlin He
 
 ## Data
-* Raw data ("original_raw_data.csv"): data pulled directly from online
-* Clean data ("cleaned_gender.csv"): cleaned from raw data; contains gender info
-* Small clean data ("cleaned_gender_small.csv"): a smaller version of clean data with same rows but less columns; deleted useless variables
+* Raw data ("*original_raw_data.csv*"): data pulled directly from online
+* Clean data ("*cleaned_gender.csv*"): cleaned from raw data; contains gender info
+* Small clean data ("*cleaned_gender_small.csv*"): a smaller version of clean data with same rows but less columns; deleted useless variables
