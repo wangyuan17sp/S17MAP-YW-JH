@@ -1,0 +1,6 @@
+"","id","studentID","groupID","v1label","v1value","v2label","v2value","v3label","v3value","numShapes","matchingScheme","requestedTime","timeUsed","timerDisplay","numErrors","shapesMatched","proximityValue","timestamp","TimeUsedSec","gender"
+"347",5126,"j776","hj190f14","gender","F","class","Sr","sleep","7","24","shape","0",51116,"1",0,24,54,"2014-09-03 11:34:15",51.116,"0"
+"356",5118,"123e","hj190f14","Gender","M","Class","S","Sleep","6","24","shape","0",54484,"1",1,24,54,"2014-09-03 11:33:39",54.484,"1"
+"361",5108,"123e","hj190f14","Gender","M","Class","S","Sleep","6","24","shape","0",62403,"1",1,24,54,"2014-09-03 11:32:33",62.403,"1"
+"365",5099,"123s","hj190f14","gender","f","class","s","sleep","8","24","shape","0",48580,"1",1,24,54,"2014-09-03 11:18:14",48.58,"0"
+"369",5095,"123s","hj190f14","gender","fm","class","fsjsr","sleep","8","24","shape","0",42517,"1",0,24,54,"2014-09-03 11:17:09",42.517,"0"
